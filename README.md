@@ -1,43 +1,69 @@
-# Hello, I'm Kamal Ourajdal 👋
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/kamalOurajdal/Media/main/kamal%20gif2.gif?token=GHSAT0AAAAAACINHQREQJHWJ64FTSQXHMH6ZI6TKTA"  />
+</div>
 
-I'm a passionate software engineering student at ENSA Agadir who loves to create web applications and is enthusiastic about becoming a full-stack developer. I have a particular fondness for working with React and Django.
+###
 
-## 🚀 What I Do
+<div align="center">
+  <a href="https://www.linkedin.com/in/kamalourajdal/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/KamalOurajdal" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://web.facebook.com/kamalOurajdal" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/kamalourajdal/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-- 💻 Currently studying software engineering with a focus on full-stack development.
-- ⚙️ Proficient in React for front-end development.
-- 🌐 Experienced in Django for back-end development.
-- 📚 Constantly learning and exploring new technologies in the web development ecosystem.
+###
 
-## 🔧 Tech Stack
+<h3 align="center">About Me</h3>
 
-Here are some of the technologies and tools I'm familiar with:
+###
 
-- **Front-end:** React, HTML5, CSS3, JavaScript
-- **Back-end:** Django, Python
-- **Database:** PostgreSQL, MySQL
-- **Version Control:** Git, GitHub
-- **Deployment:** Heroku, Netlify
-- **Other:** RESTful APIs, GraphQL
+<p align="left">I'm a passionate software engineering student at ENSA Agadir who loves to create web applications and is enthusiastic about becoming a full-stack developer. I have a particular fondness for working with React and Django.<br><br>💻 Currently studying software engineering with a focus on full-stack development.<br>⚙️ Proficient in React for front-end development.<br>🌐 Experienced in Django for back-end development.<br>📚 Constantly learning and exploring new technologies in the web development ecosystem.</p>
 
-## 🌱 Learning Journey
+###
 
-I believe in continuous learning and personal growth. Here are some of the areas I'm currently focusing on:
+<h3 align="left">🛠 Language and tools</h3>
 
-- 🔍 Exploring advanced topics in React and Django.
-- 🌐 Learning more about web security and best practices.
-- 📊 Diving into data visualization and analytics.
+###
 
-## 💬 Get in Touch
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
 
-I'm always open to interesting projects, collaboration opportunities, and discussions about web development. Feel free to reach out to me through the following channels:
+###
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+<h3 align="left">🔥   My Stats :</h3>
 
-## 🌟 Let's Connect
+###
 
-Let's connect and learn together! You can find more about my projects, contributions, and articles on my GitHub profile. Don't hesitate to follow or star my repositories if you find them interesting.
+<img src="https://raw.githubusercontent.com/KamalOurajdal/KamalOurajdal/output/snake.svg" alt="Snake animation" />
 
-Thank you for visiting my GitHub profile. Happy coding! 🚀
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KamalOurajdal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KamalOurajdal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
