@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="[https://raw.githubusercontent.com/kamalOurajdal/Media/main/kamal%20gif2.gif?token=GHSAT0AAAAAACINHQREQJHWJ64FTSQXHMH6ZI6TKTA](https://raw.githubusercontent.com/kamalOurajdal/Media/main/kamal%20ourajdal1.gif?token=GHSAT0AAAAAACINHQRF3GILBH3CFT575RIGZI6VQEQ)"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1041829661711269950/1159455023844048946/kamal_gif2.gif?ex=653115a3&is=651ea0a3&hm=ae6d5b7bee86249efcd2521fa3bd30dc02da396d129636b35067357d85f3bd21&"  />
 </div>
 
 ###
@@ -45,6 +45,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="20" />
