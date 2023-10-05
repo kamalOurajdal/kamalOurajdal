@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">Language and tools</h3>
 
 ###
 
@@ -50,14 +50,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/KamalOurajdal/KamalOurajdal/output/snake.svg" alt="Snake animation" />
 
 ###
 
