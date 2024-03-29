@@ -56,9 +56,13 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="rest logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
 ###
