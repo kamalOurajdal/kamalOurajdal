@@ -56,7 +56,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=rest" height="40" alt="rest logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="rest logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
 </div>
