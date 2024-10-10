@@ -1,24 +1,3 @@
-<div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1041829661711269950/1159455023844048946/kamal_gif2.gif?ex=653115a3&is=651ea0a3&hm=ae6d5b7bee86249efcd2521fa3bd30dc02da396d129636b35067357d85f3bd21&"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kamalourajdal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/KamalOurajdal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://web.facebook.com/kamalOurajdal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/kamalourajdal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
 
 <p align="left">I'm a passionate software engineering student at ENSA Agadir who loves to create web applications and is enthusiastic about becoming a full-stack developer. I have a particular fondness for working with React and Django.<br><br>💻 Currently studying software engineering with a focus on full-stack development.<br>⚙️ Proficient in React for front-end development.<br>🌐 Experienced in Django for back-end development.<br>📚 Constantly learning and exploring new technologies in the web development ecosystem.</p>
 
