@@ -1,6 +1,5 @@
 
-<p align="left">I'm a passionate software engineering student at ENSA Agadir who loves to create web applications and is enthusiastic about becoming a full-stack developer. I have a particular fondness for working with React and Django.<br><br>💻 Currently studying software engineering with a focus on full-stack development.<br>⚙️ Proficient in React for front-end development.<br>🌐 Experienced in Django for back-end development.<br>📚 Constantly learning and exploring new technologies in the web development ecosystem.</p>
-
+<p align="left">I'm a passionate software engineering student at ENSA Agadir who loves to create web applications and is enthusiastic about becoming a full-stack developer. I have a particular fondness for working with React and Django.
 ###
 
 <h3 align="center">Language and tools</h3>
