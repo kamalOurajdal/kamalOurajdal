@@ -4,11 +4,6 @@
   Angular · Python · AI-Powered Applications · Casablanca, Morocco
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/kamalourajdal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kamalourajdal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
 ---
 
 Full-Stack Software Engineer with 2+ years of experience building digital platforms for government services, data quality systems, and AI-powered applications. Currently at **BEREXIA**, contributing to national-scale projects with a focus on performance, accessibility, and clean architecture.
